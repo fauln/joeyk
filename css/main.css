@@ -2339,6 +2339,10 @@ body.mobile-nav-active #mobile-nav-toggle {
   background: -ms-linear-gradient(0deg, #837088 0%, #99b3c5 100%);
 }
 
+#texting about {
+    vertical-align: middle !important;
+}
+
 .p1-gradient-color, .single-services:hover .lnr {
   background: -moz-linear-gradient(0deg, #9453A5 0%, #62bdfc 100%);
   background: -webkit-linear-gradient(0deg, #9453A5 0%, #62bdfc 100%);
@@ -3049,14 +3053,14 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .about-content {
-  margin-top: 70px;
+  margin-top: 95px;
   padding: 90px 0px;
   text-align: center;
 }
 
 @media (max-width: 767px) {
   .about-content {
-    margin-top: 70px;
+    margin-top: 95px;
   }
 }
 
